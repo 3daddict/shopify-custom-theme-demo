@@ -383,10 +383,10 @@
   resolved "https://registry.yarnpkg.com/@shopify/theme-a11y/-/theme-a11y-2.0.1.tgz#baf4beedca63c08c8f7e82de35bba9c9654c3126"
   integrity sha512-kZxkVCQuNaoancZQZdXIVrPj5WmtxerrXlypyAgc7Q7gFEqOEYIHsey3xWnzKTM80hxk5N0rzrWMsRHWXbgp6g==
 
-"@shopify/theme-addresses@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@shopify/theme-addresses/-/theme-addresses-1.0.0.tgz#204327c8fbf2e2382c5af5532d3f8176a5111b42"
-  integrity sha512-RF7b4K1By/41aYoh6lBJIIFh3tmB1MGaw9zUvRre/b6qf07/oEEpEMFOMbLKyMuX4nY36cCVhY1xVnrgvcWvQw==
+"@shopify/theme-addresses@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@shopify/theme-addresses/-/theme-addresses-3.0.0.tgz#21a1db60e0414e351205d9d5e36f2f625f7a5445"
+  integrity sha512-3MyMnfw1VtPq3cLCr2GX71NgbJEsNO8Sm43Vfh76K7Jyqv2nQqHQAcJ87tgJhDzTcfvXwiYXdb14IusoUXsBDg==
 
 "@shopify/theme-cart@^1.0.0-alpha.7":
   version "1.0.0-alpha.7"
@@ -414,10 +414,10 @@
     htmllint "^0.6.0"
     lodash "^4.15.0"
 
-"@shopify/theme-product-form@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@shopify/theme-product-form/-/theme-product-form-1.0.1.tgz#f07189c6932224f8e234c85696cbc7a191ce6e52"
-  integrity sha512-rYlJ2NSdSwSm8y/uTRpVR8osOjQW/P3MjIm7G/t7HArGrgG1EpjztE3csFjGYA0xtbwdeihs308T4Ax9oYpYLQ==
+"@shopify/theme-product-form@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@shopify/theme-product-form/-/theme-product-form-3.0.0.tgz#ad4b74f7f2bf98fd0e67095b1b4d0c54cbdca49f"
+  integrity sha512-9PWMY/hmWNd724GIEZvzAsRtTVP4J5RC3DAbOO83dS7CwnDcn7EQKceHuTqZAYEPAfom6xKnYViuLd17fTz4lQ==
 
 "@shopify/theme-product@^1.0.0":
   version "1.0.0"
